@@ -1,0 +1,109 @@
+Semana 1: Fundamentos de Tkinter y Estructura Básica
+Objetivo: Familiarizarte con el entorno de Tkinter, comprender la estructura básica de una aplicación Tkinter y los elementos gráficos más sencillos.
+
+Día 1: Introducción a Tkinter y tu primera ventana
+
+Qué es Tkinter y cómo instalarlo.
+Crear tu primera ventana básica.
+Día 2: Widgets básicos
+
+Aprender sobre widgets fundamentales: Label, Button, Entry, Text.
+Practicar creando una ventana con etiquetas y botones.
+
+Día 3: Eventos y manejo de botones
+
+Asociar funciones a los botones.
+Introducción al manejo de eventos.
+
+Día 4: Variables en Tkinter (StringVar, IntVar, etc.)
+
+Cómo usar variables enlazadas a los widgets.
+Controlar el contenido de los widgets con variables.
+
+
+Día 5: Caja de texto (Entry y Text) y validación
+
+Trabajar con entradas de texto y validar entradas de usuario.
+Día 6: Practicar creando una pequeña aplicación básica
+
+Crear una calculadora simple con dos Entry, Label, y un Button.
+Día 7: Repaso y proyecto mini
+
+Reforzar los conceptos aprendidos hasta ahora construyendo una pequeña aplicación como una calculadora o una ventana que responda a eventos del teclado o mouse.
+Semana 2: Disposición de Widgets y Gestión de Layout
+Objetivo: Aprender a organizar los widgets en la ventana utilizando diferentes métodos de gestión de disposición (layout).
+
+Día 8: El gestor de diseño pack()
+
+Cómo colocar widgets con el método pack().
+Día 9: El gestor de diseño grid()
+
+Organizar widgets en filas y columnas con grid().
+Día 10: El gestor de diseño place()
+
+Posicionar widgets en coordenadas específicas con place().
+Día 11: Combinar los métodos de disposición (pack, grid, place)
+
+Entender cuándo y cómo usar cada método en conjunto.
+Día 12: Uso avanzado de grid() con widgets anidados
+
+Organizar la disposición de widgets en diferentes frames dentro de la ventana.
+Día 13: Frames y secciones en la ventana
+
+Usar Frame para agrupar widgets.
+Día 14: Proyecto de práctica: Formulario simple
+
+Crear un formulario de contacto con varios campos y organizar la disposición con grid().
+Semana 3: Widgets Intermedios y Personalización
+Objetivo: Profundizar en el uso de más widgets de Tkinter, aprender a personalizar la apariencia y responder a eventos de usuario más avanzados.
+
+Día 15: Menús
+
+Crear menús desplegables y asociar funciones a las opciones del menú.
+Día 16: Listbox y Scrollbar
+
+Trabajar con listas y agregar barras de desplazamiento.
+Día 17: Radiobuttons y Checkbuttons
+
+Trabajar con Radiobutton y Checkbutton para opciones múltiples y únicas.
+Día 18: Sliders (Scale) y barras de progreso (Progressbar)
+
+Crear controles deslizantes y barras de progreso.
+Día 19: Personalización de widgets
+
+Cambiar el estilo de los widgets (colores, fuentes, bordes, etc.).
+Día 20: Ventanas emergentes y diálogos
+
+Crear ventanas emergentes y usar diálogos estándar.
+Día 21: Proyecto intermedio
+
+Crear una aplicación más compleja que combine menús, barras de progreso, y cuadros de diálogo.
+Semana 4: Proyectos Avanzados y Buenas Prácticas
+Objetivo: Aplicar los conocimientos en proyectos más grandes, aprender buenas prácticas y mejorar la eficiencia en el desarrollo de aplicaciones.
+
+Día 22: Introducción a Canvas
+
+Usar el widget Canvas para dibujar formas.
+Día 23: Animaciones básicas
+
+Crear una animación sencilla en Canvas.
+Día 24: Gestión de múltiples ventanas y navegación
+
+Crear aplicaciones con múltiples ventanas y cambiar entre ellas.
+Día 25: Buenas prácticas en Tkinter
+
+Separar la lógica del diseño (uso de clases y objetos).
+Organización modular del código.
+Día 26: Integración de bases de datos (opcional)
+
+Conectar una aplicación Tkinter con una base de datos SQLite para guardar información de usuario.
+Día 27: Proyecto final (parte 1)
+
+Comenzar a desarrollar una aplicación completa (ej. un gestor de tareas o una app de lista de compras).
+Día 28: Proyecto final (parte 2)
+
+Completar y mejorar la aplicación desarrollada, agregando detalles estéticos y mejorando la funcionalidad.
+Recursos adicionales:
+Documentación oficial de Tkinter
+Tutoriales en YouTube y plataformas de aprendizaje online.
+Este plan te permitirá desarrollar una comprensión sólida de Tkinter y sus capacidades para crear aplicaciones de escritorio en Python. ¡Buena suerte y disfruta el proceso de aprendizaje!
