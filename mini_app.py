@@ -24,6 +24,8 @@ boton.pack(pady = 10)
 etiqueta_2 = tk.Label(root)
 etiqueta_2.pack()
 
+# Realizo un cambio
+
 
 
 root.mainloop()

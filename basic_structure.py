@@ -12,3 +12,5 @@ ventana.geometry("400x300")
 
 # Bucle principal
 ventana.mainloop()
+
+# Realizo un cambio
